@@ -1,6 +1,6 @@
 # 📸 Instagram Clone  
 
-Este projeto é um clone da página inicial do **Instagram**, recriando sua interface com HTML, CSS e JavaScript.  
+Este projeto é um clone da página inicial do **Instagram**, recriando sua interface com HTML, CSS.  
 
 ## 🔹 Funcionalidades  
 - Layout responsivo semelhante ao Instagram.  
